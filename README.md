@@ -2,7 +2,7 @@
   <img src="https://github.com/pavankumarmareboina/Pavan-Kumar/blob/main/1.png?raw=true"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Pavan Kumar Mareboina</h1>
+<h1 align="center">Hi 👋, I'm Pavan Kumar Mareboin</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavankumarmareboina&label=Profile%20views&color=0e75b6&style=flat" alt="pavankumarmareboina" /> </p>
